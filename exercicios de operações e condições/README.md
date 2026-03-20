@@ -1,2 +1,2 @@
 # Aulas Js
-Exercicios basicos de operações e condições em JS
+Exercicios em JavaScript de operações e condições, com variáveis, condições e loops

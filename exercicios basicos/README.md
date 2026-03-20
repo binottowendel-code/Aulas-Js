@@ -1,2 +1,2 @@
 # Aulas Js
-Exercicios de JS
+Exercicios basicos de entrada e saida de dados em JS

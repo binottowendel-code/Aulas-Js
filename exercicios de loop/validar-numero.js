@@ -1,3 +1,4 @@
+// loop ate o numero ser valido
 const readline = require("readline-sync");
 let num = Number(readline.question("Digite um numero: "))
 while (isNaN(num)){
